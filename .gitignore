@@ -1,0 +1,6 @@
+# Arquivos testes
+test*
+
+# Caches em Python
+__pycache__/
+*.py[cod]
