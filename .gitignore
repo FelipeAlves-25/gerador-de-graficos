@@ -4,3 +4,6 @@ test*
 # Caches em Python
 __pycache__/
 *.py[cod]
+
+# Outros
+graphs/
